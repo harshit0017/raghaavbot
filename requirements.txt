@@ -1,0 +1,10 @@
+langchain
+streamlit
+pypdf2
+faiss-cpu
+tiktoken
+openai
+transformers 
+python-dotenv
+beautifulsoup4
+requests
