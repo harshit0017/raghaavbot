@@ -11,7 +11,7 @@ from langchain.llms import OpenAI
 from langchain.callbacks import get_openai_callback
 import requests
 from bs4 import BeautifulSoup
-os.environ["OPENAI_API_KEY"] = "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"
+
 def webscrap(name):
     # Replace this URL with the one you want to scrape
     url = f'https://www.{name}.com'
